@@ -47,7 +47,7 @@
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarshc003&theme=tokyonight" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarshc003&theme=github_dark" 
   />
 </p>
 

@@ -59,12 +59,12 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="linkedin.com/in/adarsh-c003">
+  <a href="linkedin.com/in/adarsh-c003/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   
   
-  <a href="mailto: adarshadhi2003a@gmail.com">
+  <a href="mailto:adarshadhi2003a@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>

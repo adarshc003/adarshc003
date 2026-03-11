@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&center=true&vCenter=true&width=520&lines=MERN+Stack+Developer;Full+Stack+JavaScript+Developer;Focused+on+Clean+Code" 
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&center=true&vCenter=true&width=520&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Focused+on+Clean+Code" 
     alt="Typing Animation"
   />
 </p>
@@ -59,12 +59,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="linkedin.com/in/adarsh-c003/">
+  <a href="https://www.linkedin.com/in/adarsh-c003/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  
-  
-  <a href="mailto:adarshadhi2003a@gmail.com">
+
+  <a href="mailto:adarshadhi2003a@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>

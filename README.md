@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**adarshc003/adarshc003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Adarsh C</h1><br><h3 align="center">Full-Stack Web Developer | MERN Stack | React & Node.js</h3><br><br><p align="center"><br>Computer Science Engineering graduate focused on building modern web applications using the MERN stack.<br>Passionate about creating scalable, responsive, and user-friendly web solutions.<br></p><br><br>---<br><br>## 👨‍💻 About Me<br><br>- 🎓 B.Tech in **Computer Science and Engineering**<br>- 💻 Focused on **Full-Stack Web Development (MERN Stack)**<br>- ⚡ Experience building **responsive web applications and RESTful APIs**<br>- 🔍 Currently **open to opportunities as a React / MERN Stack Developer**<br>- 🤝 Interested in collaborating on **web development projects**<br>- 📫 Reach me at: **adarshadhi2003a@gmail.com**<br><br>---<br><br>## 🛠 Tech Stack<br><br>### Frontend<br>- React.js<br>- JavaScript (ES6+)<br>- HTML5<br>- CSS3<br>- Bootstrap<br><br>### Backend<br>- Node.js<br>- Express.js<br>- REST API Development<br><br>### Database<br>- MongoDB<br>- Basic SQL<br><br>### Tools & Platforms<br>- Git<br>- GitHub<br>- Postman / Thunder Client<br>- VS Code<br><br>---<br><br>## 🚀 Featured Projects<br><br>### 🛒 E-Commerce Web Application<br>- Full-stack application built with **React, Node.js, Express, and MongoDB**<br>- Implemented **JWT authentication and role-based access**<br>- Developed **REST APIs for product and user management**<br>- Built responsive UI with reusable React components<br><br>### 🎟 Event Booking System<br>- Web platform for managing and booking events<br>- Integrated backend APIs and database operations<br>- Implemented user authentication and booking workflows<br><br>### 🤖 AI Mock Interview Platform<br>- Web application designed to simulate interview scenarios<br>- Built with **React frontend and Node.js backend**<br>- Focused on UI interaction and API communication<br><br>---<br><br>## 📊 GitHub Stats<br><br><p align="center"><br><img src="https://github-readme-stats.vercel.app/api?username=adarshc003&show_icons=true&theme=tokyonight" height="160"/><br><img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshc003&theme=tokyonight" height="160"/><br></p><br><br>---<br><br>## 🌐 Connect With Me<br><br><p align="left"><br><a href="https://www.linkedin.com/in/linkedin.com/in/adarsh-c003/" target="_blank">LinkedIn</a> <br><a href="mailto:adarshadhi2003a@gmail.com">Email</a><br></p><br><br>---<br><br>⭐ *Always interested in working on impactful web applications and collaborating with other developers.*
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adarshc003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=adarshc003&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshc003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=adarshc003&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
